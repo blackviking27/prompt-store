@@ -2,8 +2,6 @@
 
 Create and share AI prompts with public with this application
 
-### Promt Generated
-
 ### File structure as routes
 
 Use file structure as paths in next.js
